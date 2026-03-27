@@ -1,16 +1,14 @@
-## Hi there 👋
+# Salut, moi c'est Josselin KOFFI 👋
 
-<!--
-**koffi-josselin/koffi-josselin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
+- 🔭 Je travaille actuellement en tant que gestionnaire de données (Opérateur de saisie)
+- 🌱 J'apprends en ce moment plusieur langages de codage pour être plus professionel
+- 💬 Interrogez-moi sur le développement informatique
+- 📫 Comment me joindre : koffijosselino@gmail.com
 
-Here are some ideas to get you started:
+## 🛠 Ma Boîte à Outils
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistiques GitHub
+![Stats de Josselin](https://github-readme-stats.vercel.app/api?username=koffi-josselin&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=koffi-josselin&layout=compact&theme=radical)
